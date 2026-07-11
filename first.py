@@ -1,4 +1,5 @@
-print("hello, world")
-print("how are you ?")
-print("how's life")
-print(14)
+name="Tejas"
+age="18"
+
+print("my name is :",name)
+print("my age is :",age)
