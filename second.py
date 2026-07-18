@@ -1,5 +1,2 @@
-
-
-str="i am learning python language" 
-
-print(str.count("python"))
+name = input("enter your name")
+print("length of your name is", len(name))
