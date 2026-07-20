@@ -1,5 +1,8 @@
-name = input("enter your name")
-print("length of your name is", len(name))
+age = int(input("enter your age: "))
 
-age = "14" 
-print(len(age))
+if(age>=18):
+    print("eligible to vote and apply for driving licence")
+else:
+    print("not eligible")
+
+    
