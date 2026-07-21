@@ -1,8 +1,8 @@
-age = int(input("enter your age: "))
+num = int(input("enter the number : "))
 
-if(age>=18):
-    print("eligible to vote and apply for driving licence")
+rem = num%2
+
+if (rem == 0):
+    print("EVEN")
 else:
-    print("not eligible")
-
-    
+    print("ODD")
