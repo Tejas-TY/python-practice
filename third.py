@@ -13,8 +13,7 @@
 
 list = [1 ,5 ,3]
 
-list.append(4)
-list.sort()
 
+list.remove(1)
 
 print(list)
