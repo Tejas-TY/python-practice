@@ -5,5 +5,7 @@ if (num == 7):
     print("Tala")
 elif(num==18):
     print("King")
+elif(num==69):
+    print("lala singh")
 else:
-    print(num)
+    print("tejas")
