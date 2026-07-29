@@ -1,7 +1,5 @@
-info={
-    "name" : Tejas,
-    "age": "18",
-"branch": "ECE"
-}
-
-print(info)
+info ={
+    "name" : "Tejas",
+    "age" : "18",
+    }
+print(type(info))
