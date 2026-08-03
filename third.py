@@ -11,9 +11,11 @@
 # print(student[0])
 # print(student)
 
-list = [1 ,5 ,3]
+# list = [1 ,5 ,3]
 
 
-list.remove(1)
+# list.remove(1)
 
-print(list)
+# print(list)
+
+print("hi")
