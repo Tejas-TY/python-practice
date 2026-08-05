@@ -20,3 +20,5 @@
 
 print("hi")
 print("mr yatheesh")
+age=(input("enter your age"))
+print(age)
