@@ -1,24 +1,9 @@
-# marks = [40,50,66,99,33]
+student = {
+"name":"Tejas",
+"age" : "14",
+"message" : "how are you"
+}
 
-# print(type(marks))
-# print(marks[0])
+print(student.items())
 
-# student=["tejas",99,"Tumkur"]
-
-# print(student)
-
-# student[0]="Yathish"
-# print(student[0])
-# print(student)
-
-# list = [1 ,5 ,3]
-
-
-# list.remove(1)
-
-# print(list)
-
-print("hi")
-print("mr yatheesh")
-age=(input("enter your age"))
-print(age)
+print(student["name"])
