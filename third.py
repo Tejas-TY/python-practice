@@ -1,9 +1,8 @@
-student = {
-"name":"Tejas",
-"age" : "14",
-"message" : "how are you"
-}
+  
+# count = 1
 
-print(student.items())
+# while count <=5 :
+#     print("hello")
+#     count += 1
 
-print(student["name"])
+    
